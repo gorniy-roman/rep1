@@ -1,0 +1,3 @@
+This is first file under git control
+Это первый файл под управлением git
+ревизия 3
